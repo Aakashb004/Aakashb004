@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Aakash B!  
 🌟 I'm a passionate Full Stack Developer & AI/ML Enthusiast from India 🇮🇳  
 
-<img align="right" src="https://raw.githubusercontent.com/Aakashb004/Aakashb004/main/assets/profile.png" width="200"/>
 
 ## 💻 Tech Stack
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -20,6 +19,6 @@
 - 📊 **[Loan Prediction](#)** - Random Forest + Pandas + Visualization
 - 📦 **[Stock Maintenance](#)** - MERN + Bun.js + MongoDB
 - 📚 **[Library Manager](#)** - Java + Console UI + File Handling
-= 
+  <break>
 Thanks for visiting my profile!
 
