@@ -6,8 +6,8 @@
 ### 💫 About Me
 
 - 🎓 B.Tech (Information Technology) @ Kalasalingam University  
-- 🌱 I’m currently working on Flutter, React, AI/ML projects  
-- 💬 Ask me about **Machine Learning**, **Flutter**, **Backend with Java or Bun.js**  
+- 🌱 Currently working on Flutter, React, and AI/ML projects  
+- 💬 Ask me about **Machine Learning**, **Flutter**, **Backend (Java, Bun.js)**  
 - 📫 Reach me at: `aakashb0494@gmail.com`  
 
 ---
@@ -31,29 +31,35 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔍 **[Fake News Detection System](#)** | Developed a Fake News Detection system using Python, Pandas, and Scikit-learn to classify news articles as real or fake, emphasizing accurate information filtering through data preprocessing and ML-based classification.
-| 📦 **[Stock Maintenance System](#)** | Developed **Stockfy**, a full-stack ERP-inspired inventory management system using React, TypeScript, Bun.js, and MongoDB, featuring role-based access, real-time analytics, in-app low-stock alerts, and a scalable architecture for efficient, data-driven business operations.
-| 😴 **[Driver Drowsiness Detection](#)** |Developed an Arduino Uno-based Drowsiness Detection System using OV7670 camera, PIR sensor, and WiFi module to monitor driver fatigue and trigger real-time alerts via a vibrator module for enhanced road safety.
-| ✅ **[Flutter To-Do App](#)** | Simple yet powerful task manager with clean UI and local persistence. Built with Flutter & Dart. |
+| 🔍 [Fake News Detection System](https://github.com/Aakashb004/Fake-News-Detection-System) | Used Python, Pandas, and Scikit-learn to classify news articles as real or fake. Focused on preprocessing, feature engineering, and ML-based classification. |
+| 📦 [Stock Maintenance System](https://github.com/Aakashb004/Stock-Maintenance-System) | Developed **Stockfy**, a full-stack ERP-like inventory management tool using React, TypeScript, Bun.js, and MongoDB with real-time low-stock alerts and role-based dashboards. |
+| 😴 [Driver Drowsiness Detection](https://github.com/Aakashb004/Driver-Drowsiness-Detection) | Created an embedded system using Arduino Uno, OV7670 camera, PIR sensor, and a vibration module to detect driver fatigue and issue alerts. |
+| ✅ [Flutter To-Do App](https://github.com/Aakashb004/flutter-todo-app) | A simple yet powerful task manager app built using Flutter and Dart, with clean UI and local data persistence. |
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aakashb004&show_icons=true&theme=radical" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aakashb004&layout=compact&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aakashb004&theme=radical" width="48%" />
 </p>
+
+---
 
 ---
 
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aakash-b-389696268/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:aakashb0494@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aakash-b-389696268/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:aakashb0494@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-*“Turning ideas into real code – one line at a time.”*
+<p align="center"><em>“Turning ideas into real code – one line at a time.”</em></p>
