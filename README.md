@@ -63,3 +63,6 @@
 ---
 
 <p align="center"><em>“Turning ideas into real code – one line at a time.”</em></p>
+
+
+![Snake animation](https://github.com/Aakashb004/Aakashb004/blob/output/github-contribution-grid-snake.svg)
